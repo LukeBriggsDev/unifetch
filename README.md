@@ -1,5 +1,7 @@
 # Unifetch
 
+`python3 -m pip install unifetch`
+
 Unifetch is a python script that will display the logo and motto of a UK university.
 
 It's main purpose is to be used as a welcome message on a University ssh server or maybe just a local vm you use for uni work.

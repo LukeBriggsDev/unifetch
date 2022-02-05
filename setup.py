@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='unifetch',
-    version='0.1.3',
+    version='0.1.4',
     description='Unifetch is a python script that will display the logo and motto of a UK university',
     long_description=long_description,
     long_description_content_type="text/markdown",
