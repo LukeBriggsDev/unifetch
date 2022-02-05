@@ -8,7 +8,7 @@ Feel free to add any Academic institution logo you feel like.
 
 ## Example
 
-![example](README_IMAGES/example.png)
+![example](https://github.com/LukeBriggsDev/unifetch/raw/master/README_IMAGES/example.png)
 
 ## Usage
 ```
