@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='unifetch',
-    version='0.1.4',
+    version='0.1.5',
     description='Unifetch is a python script that will display the logo and motto of a UK university',
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -22,8 +22,8 @@ setup(
     ],
 
     install_requires=[
-        "numpy==1.22.1",
-        "opencv-python==4.5.5.62",
-        "Pillow==9.0.1",
+        "numpy",
+        "opencv-python",
+        "Pillow",
     ]
 )
