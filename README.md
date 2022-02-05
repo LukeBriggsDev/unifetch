@@ -1,6 +1,6 @@
 # Unifetch
 
-Unifetch is a shell script that will display the logo and certain information about a University.
+Unifetch is a python script that will display the logo and motto of a UK university.
 
 It's main purpose is to be used as a welcome message on a University ssh server or maybe just a local vm you use for uni work.
 
