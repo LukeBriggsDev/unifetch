@@ -8,7 +8,7 @@ Feel free to add any Academic institution logo you feel like.
 
 ## Example
 
-![README_IMAGES/example.png]
+![example](README_IMAGES/example.png)
 
 ## Usage
 ```
